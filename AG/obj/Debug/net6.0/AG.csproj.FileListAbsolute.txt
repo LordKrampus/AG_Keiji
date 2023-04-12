@@ -1,0 +1,12 @@
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\bin\Debug\net6.0\AG.deps.json
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\bin\Debug\net6.0\AG.dll
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\bin\Debug\net6.0\AG.pdb
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\obj\Debug\net6.0\AG.csproj.AssemblyReference.cache
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\obj\Debug\net6.0\AG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\obj\Debug\net6.0\AG.AssemblyInfoInputs.cache
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\obj\Debug\net6.0\AG.AssemblyInfo.cs
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\obj\Debug\net6.0\AG.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\obj\Debug\net6.0\AG.dll
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\obj\Debug\net6.0\refint\AG.dll
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\obj\Debug\net6.0\AG.pdb
+C:\Users\angel\Documents\Trabalhos\Disciplinas\AG_Keiji\AG\Library\AG\AG\obj\Debug\net6.0\ref\AG.dll
